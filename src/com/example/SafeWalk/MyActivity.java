@@ -13,3 +13,6 @@ public class MyActivity extends Activity {
         setContentView(R.layout.main);
     }
 }
+
+
+//This is a github test
